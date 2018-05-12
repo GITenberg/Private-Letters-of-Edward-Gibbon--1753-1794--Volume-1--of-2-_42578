@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3206
     wikipedia: http://en.wikipedia.org/wiki/Rowland_Prothero%2C_1st_Baron_Ernle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42578#Private-Letters-of-Edward-Gibbon--1753-1794--Volume-1--of-2-
 gutenberg_issued: '2013-04-22'
 gutenberg_type: Text
 identifiers:
