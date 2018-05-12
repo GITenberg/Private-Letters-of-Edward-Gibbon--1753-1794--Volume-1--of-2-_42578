@@ -1,0 +1,50 @@
+_repo: Private-Letters-of-Edward-Gibbon--1753-1794--Volume-1--of-2-_42578
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Sheffield, Henry North Holroyd, Earl of
+    alias: Holroyd, Henry North, Earl of Sheffield
+    birthdate: 1832
+    deathdate: 1909
+    gutenberg_agent_id: '42635'
+    url: http://www.gutenberg.org/2009/agents/42635
+covers:
+- cover_type: archival
+  image_path: 42578-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Gibbon, Edward
+    birthdate: 1737
+    deathdate: 1794
+    gutenberg_agent_id: '375'
+    url: http://www.gutenberg.org/2009/agents/375
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Gibbon
+  editor:
+    agent_name: Prothero, Rowland E. (Rowland Edmund), Baron Ernle
+    aliases:
+    - Ernle, Rowland Edmund Prothero, Baron
+    - Prothero, Baron Rowland Edmund
+    - Ernle, Lord (Rowland Edmund Prothero)
+    birthdate: 1851
+    deathdate: 1937
+    gutenberg_agent_id: '3206'
+    url: http://www.gutenberg.org/2009/agents/3206
+    wikipedia: http://en.wikipedia.org/wiki/Rowland_Prothero%2C_1st_Baron_Ernle
+description: ''
+gutenberg_issued: '2013-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gibbon, Edward, 1737-1794 -- Correspondence'
+- !lcsh 'Scholars -- Great Britain -- Correspondence'
+- !lcsh 'Great Britain -- Intellectual life -- 18th century'
+- !lcc 'PR'
+- !lcsh 'Historians -- Great Britain -- Correspondence'
+- !lcsh 'Gibbon, Edward, 1737-1794'
+title: Private Letters of Edward Gibbon (1753-1794)  Volume 1 (of 2)
+url: http://www.gutenberg.org/ebooks/42578
